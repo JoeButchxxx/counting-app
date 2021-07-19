@@ -2,4 +2,4 @@
 
 # By Joe Butcher
 
-## https://joebutchxxx.github.io/counting-app/
+## Npm Start will show project on localhost:3000
